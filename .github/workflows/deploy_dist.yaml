@@ -46,7 +46,7 @@ jobs:
       - name: node version 20
         uses: actions/setup-node@v4
         with:  
-          node-verison: 20
+          node-version: 20
     
       - name: Cache Dependencies
         uses: actions/cache@v4
